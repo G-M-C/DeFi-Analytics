@@ -36,5 +36,5 @@ pip/conda install seaborn
 pip/conda install gql
 </pre>
 
-##### Note :: The inisghts derived at the end of the notebook only hold true for the transactions between 1500 and 2100 hrs for 26 June,2021 and will change if this notebook is run at a later time.
+#### Note :: The inisghts derived at the end of the notebook only hold true for the transactions between 1500 and 2100 hrs for 26 June,2021 and will change if this notebook is run at a later time.
 
