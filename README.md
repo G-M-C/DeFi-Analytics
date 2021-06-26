@@ -4,4 +4,9 @@ An analysis of the transaction data for the UNI/WETH pair on Uniswap by making u
 
 ## Modules Used:
 <pre>
-1.
+1. gql (For GraphQL functionality)
+2. numpy (For Dataframe Manipulation)
+3. pandas (For Dataframe Manipulation)
+4. matplotlib (For Data visualization)
+5. seaborn (For Data visualization)
+</pre>
