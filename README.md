@@ -19,4 +19,20 @@ Kindly ensure that the modules mentioned above are present pn the system locally
 <pre>
 pip/conda install numpy
 </pre>
+### To install pandas
+<pre>
+pip/conda install pandas
+</pre>
+### To install matplotlib
+<pre>
+pip/conda install matplotlib
+</pre>
+### To install seaborn
+<pre>
+pip/conda install seaborn
+</pre>
+### To install gql
+<pre>
+pip/conda install gql
+</pre>
 
