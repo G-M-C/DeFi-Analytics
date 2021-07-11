@@ -11,6 +11,10 @@ An analysis of the transaction data for the UNI/WETH pair on Uniswap by making u
 5. seaborn (For Data visualization)
 </pre>
 
+## Uniswap API
+
+If you want to explore the Uniswap V2 and TheGraph queries even more , goto : https://thegraph.com/legacy-explorer/subgraph/uniswap/uniswap-v2
+
 ## Instructions to run the Notebook.
 
 Kindly ensure that the modules mentioned above are present on the system locally !! If these modules are not present please run the pip install (Python distribution) or conda install (Anaconda distribution) commands below for the missing modules. Once all these modules have been installed, open Jupuyter Notebook and cick on Cell ---> Run All.
