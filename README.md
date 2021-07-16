@@ -13,7 +13,8 @@ An analysis of the transaction data for the UNI/WETH pair on Uniswap by making u
 
 ## Uniswap API
 
-If you want to explore the Uniswap V2 and TheGraph queries even more , goto : https://thegraph.com/legacy-explorer/subgraph/uniswap/uniswap-v2
+If you want to explore the Uniswap V2 and TheGraph queries even more.  
+goto : https://thegraph.com/legacy-explorer/subgraph/uniswap/uniswap-v2
 
 ## Instructions to run the Notebook.
 
